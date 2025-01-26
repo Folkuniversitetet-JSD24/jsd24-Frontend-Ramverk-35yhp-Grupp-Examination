@@ -26,14 +26,14 @@ Bokning: Använd kö-dokumentet i Discord. När det är er tur, kontakta Mandus 
 - Som användare vill jag kunna lägga till produkter i varukorgen.
 - Som användare vill jag kunna se och uppdatera varukorgen.
 - Som användare vill jag kunna skapa ett konto och logga in.
+(Tips för denna: Simulerad inloggning med lokal lagring
+Du kan använda localStorage eller sessionStorage för att simulera kontoskapande och inloggning. Detta kräver ingen backend och är lämpligt för en frontend-kurs.)
 - Som användare vill jag kunna se min beställningsstatus.
 
 - Ni får lägga till fler stories eller tekniska uppgifter efter behov.
 
 ## Figmaskiss
 https://www.figma.com/file/ONcO3UQRPBLQsZc3FkysMt/AirBean-v.1.1---with-profile?node-id=0%3A1&t=aOiJ6vMVkTI7Xxth-0
-
-
 
 **För att få Godkänt ska du:**
 * Gjort enligt Figma skissen (viss variation på färger, typsnitt etc är tillåtet).
