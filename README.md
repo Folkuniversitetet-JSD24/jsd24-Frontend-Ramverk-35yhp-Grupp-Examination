@@ -21,7 +21,7 @@ Bokning: Använd kö-dokumentet i Discord. När det är er tur, kontakta Mandus 
 - Inlämning senast torsdag kl. 23:59.
 - Gruppens presentation sker på fredag, där resultat och process redovisas inför klassen.
 
-## User stories exempel:
+## User stories:
 - Som användare vill jag kunna se en meny med kaffedrycker.
 - Som användare vill jag kunna lägga till produkter i varukorgen.
 - Som användare vill jag kunna se och uppdatera varukorgen.
