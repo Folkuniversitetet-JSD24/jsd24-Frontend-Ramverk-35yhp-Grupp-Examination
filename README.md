@@ -19,6 +19,7 @@ Bokning: Använd kö-dokumentet i Discord. När det är er tur, kontakta Mandus 
 
 ## Deadline och presentation:
 - Inlämning senast fredag 28/2 kl. 23:59.
+- Varje individ lägger in länk till repot i Azomo.
 - Gruppens presentation sker på fredag 28/2 (lektions tid), där resultat och process redovisas inför klassen.
 
 ## User stories:
