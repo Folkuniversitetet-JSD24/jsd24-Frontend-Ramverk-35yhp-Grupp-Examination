@@ -35,6 +35,22 @@ Du kan använda localStorage eller sessionStorage för att simulera kontoskapand
 ## Figmaskiss
 https://www.figma.com/file/ONcO3UQRPBLQsZc3FkysMt/AirBean-v.1.1---with-profile?node-id=0%3A1&t=aOiJ6vMVkTI7Xxth-0
 
+## API-dokumentation
+https://airbean-9pcyw.ondigitalocean.app/api/docs/
+
+**BASE URL**
+```
+https://airbean-9pcyw.ondigitalocean.app
+```
+
+Ni behöver enbart bry er om följande tre endpoints:
+
+* /api/beans/
+* /api/beans/order
+* /api/beans/order/status/{orderNr}
+
+Strunta i allt om User från Swaggern.
+
 **För att få Godkänt ska du:**
 * Gjort enligt Figma skissen (viss variation på färger, typsnitt etc är tillåtet).
 * Alla specificerade user stories ska vara genomförda.
