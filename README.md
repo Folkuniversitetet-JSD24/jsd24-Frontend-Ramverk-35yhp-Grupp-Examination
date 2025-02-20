@@ -47,7 +47,7 @@ Ni behöver enbart bry er om följande tre endpoints:
 * /api/beans/order
 * /api/beans/order/status/{orderNr}
 
-Strunta i allt om User från Swaggern.
+Strunta i allt om User från Swaggern (API dokumentationen).
 
 **För att få Godkänt ska du:**
 * Gjort enligt Figma skissen (viss variation på färger, typsnitt etc är tillåtet).
