@@ -52,7 +52,6 @@ Strunta i allt om User från Swaggern.
 * Gjort enligt Figma skissen (viss variation på färger, typsnitt etc är tillåtet).
 * Alla specificerade user stories ska vara genomförda.
 * Appens styling ska göras med SASS.
-* Uppgiften ska följa god kodstruktur och gruppens konventioner.
 
 **För att Väl Godkänt ska du:**
 * Allt som krävs för G.
