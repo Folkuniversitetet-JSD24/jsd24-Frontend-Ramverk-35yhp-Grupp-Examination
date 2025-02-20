@@ -7,7 +7,7 @@ Ni ska bygga en webbapp där det går att beställa kaffe och få den levererad 
 
 ## Arbetsgång
 - Ni ska arbeta enligt Scrum med dagliga standups (kan vara på morgonen, vid lunch eller eftermiddagen), sprint planering och retro. 
-- På måndag och onsdag finns det möjlighet till handledning via Discord (Samma rutiner som förra kursen för handledning: 
+- På torsdag 20/2, fredag 21/2, måndag 24/2 och onsdag 26/2 finns det möjlighet till handledning via Discord (Samma rutiner som förra kursen för handledning: 
 Bokning: Använd kö-dokumentet i Discord. När det är er tur, kontakta Mandus och bjud in till möte via Discord).
 
 - Böra med att en i gruppen skapar ett Reactprojekt och pushar upp detta och resterande i gruppen klonar ner repot och sen kör en `npm install`. 
@@ -18,7 +18,7 @@ Bokning: Använd kö-dokumentet i Discord. När det är er tur, kontakta Mandus 
 - Sätt upp en sprint backlog med user stories och fördela arbetet i Trello.
 
 ## Deadline och presentation:
-- Inlämning senast torsdag kl. 23:59.
+- Inlämning senast fredag 28/2 kl. 23:59.
 - Gruppens presentation sker på fredag, där resultat och process redovisas inför klassen.
 
 ## User stories:
